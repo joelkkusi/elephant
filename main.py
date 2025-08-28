@@ -40,3 +40,4 @@ while True:
         clear()
         print("Sorry, you ran out of guesses.\n"
               "The " + topic + " was: " + word + "\n")
+
